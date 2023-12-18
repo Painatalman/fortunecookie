@@ -25,6 +25,7 @@
     "Don't lose your aim. Don't panic if someone declines",
     "Don't worry about petty things",
     "Enjoy every moment, now you are happy",
+    "Enjoying every moment will make you feel happy",
     "Even a short time for relaxation is worth it",
     "Everyone loves you because you are a good-hearted person",
     "Everything goes as you wish - time for human conversations",
@@ -64,6 +65,7 @@
     "Soon you will be on the right way",
     "Soon you'll be making remarkable journeys",
     "Take your time!",
+    "The barometer indicates a high",
     "The journey is part of the trip, enjoy it",
     "The low tones are the most effective",
     "The mistakes we make are our best teachers",
@@ -131,6 +133,7 @@
     "You will be very lucky and overcome all difficulties",
     "You will experience something very new on wednesday",
     "You will have as much success as you wish",
+    "You will increase your property",
     "You'd better keep your plans top secret!",
     "Your ambitions also inspire others",
     "Your appearance implies that you're a management personality",
@@ -287,7 +290,9 @@
   ],
   "de": [
     "Auch die Anfahrt gehört zu einer Reise, genieße sie",
+    "Das Barometer steht auf „Hoch“",
     "Geduld! Ihre Vorschläge werden noch aufgegriffen",
+    "Genieße jeden Augenblick, dann hast Du Freude",
     "Eine zauberhafte Begegnung wartet",
     "Etwas in Ihnen verspricht gute Gesundheit",
     "Ihnen bleibt auch in Zukunft das Glück treu",
@@ -309,6 +314,7 @@
     "Sie strahlen Power aus. Man bewundert Ihren Einsatz",
     "Sie verstehen es, andere für Ihre Ideen zu bereistern",
     "Sie werden bald aufholen, was Sie in letzter Zeit versäumt haben",
+    "Sie werden Ihr Eigentum erfolgreich vergrößern",
     "Sie werden immer Glück in persönlichen Dingen haben"
   ]
 }
